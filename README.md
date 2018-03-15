@@ -12,6 +12,6 @@ Ubuntu下编译：
 
              make
 
-Windows下安装proteus，加载model/文件夹下的Model_for_Proteus但单片机模型中；
+Windows下安装proteus，加载model/文件夹下的Model_for_Proteus到单片机模型中；
 
 Ubuntu下将bin/文件夹下的test_1.hex文件加载到proteus中的单片机模型中；
