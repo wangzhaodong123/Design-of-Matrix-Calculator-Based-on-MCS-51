@@ -4,7 +4,8 @@
 # 编译及使用
 Ubuntu下安装sdcc：sudo apt-get install sdcc；
 
-Ubuntu下编译：cd Design-of-Matrix-Calculator-Based-on-MCS-51
+Ubuntu下编译：
+             cd Design-of-Matrix-Calculator-Based-on-MCS-51
 
              make；
 
